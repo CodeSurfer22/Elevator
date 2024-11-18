@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\source\\repos\\Elevator\\Elevator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E897781-9C84-41C4-A6D6-1FC9A4B6D0D6}|..\\Tests\\UnitTests\\UnitTests.csproj|c:\\users\\dell\\source\\repos\\elevator\\tests\\unittests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{695E1803-74DB-4E2C-966D-E7555F3FFF68}|Elevator.csproj|c:\\users\\dell\\source\\repos\\elevator\\elevator\\elevator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{695E1803-74DB-4E2C-966D-E7555F3FFF68}|Elevator.csproj|solutionrelative:elevator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{695E1803-74DB-4E2C-966D-E7555F3FFF68}|Elevator\\Elevator.csproj|c:\\users\\dell\\source\\repos\\elevator\\elevator\\elevator\\core\\models\\building.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{695E1803-74DB-4E2C-966D-E7555F3FFF68}|Elevator\\Elevator.csproj|solutionrelative:elevator\\core\\models\\building.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{695E1803-74DB-4E2C-966D-E7555F3FFF68}|Elevator\\Elevator.csproj|c:\\users\\dell\\source\\repos\\elevator\\elevator\\elevator\\core\\models\\elevator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{695E1803-74DB-4E2C-966D-E7555F3FFF68}|Elevator\\Elevator.csproj|solutionrelative:elevator\\core\\models\\elevator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{695E1803-74DB-4E2C-966D-E7555F3FFF68}|Elevator\\Elevator.csproj|c:\\users\\dell\\source\\repos\\elevator\\elevator\\elevator\\core\\interfaces\\ielevator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{695E1803-74DB-4E2C-966D-E7555F3FFF68}|Elevator\\Elevator.csproj|solutionrelative:elevator\\core\\interfaces\\ielevator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{695E1803-74DB-4E2C-966D-E7555F3FFF68}|Elevator.csproj|c:\\users\\dell\\source\\repos\\elevator\\elevator\\elevator\\core\\enums\\elevatortype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{695E1803-74DB-4E2C-966D-E7555F3FFF68}|Elevator.csproj|solutionrelative:elevator\\core\\enums\\elevatortype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{695E1803-74DB-4E2C-966D-E7555F3FFF68}|Elevator.csproj|c:\\users\\dell\\source\\repos\\elevator\\elevator\\elevator\\controllers\\elevatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{695E1803-74DB-4E2C-966D-E7555F3FFF68}|Elevator.csproj|solutionrelative:elevator\\controllers\\elevatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Elevator.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Elevator\\Elevator\\Elevator\\Core\\Models\\Elevator.cs",
+              "RelativeDocumentMoniker": "Elevator\\Core\\Models\\Elevator.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Elevator\\Elevator\\Elevator\\Core\\Models\\Elevator.cs",
+              "RelativeToolTip": "Elevator\\Core\\Models\\Elevator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHMAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T06:01:04.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Elevator\\Tests\\UnitTests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\Tests\\UnitTests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Elevator\\Tests\\UnitTests\\UnitTest1.cs",
+              "RelativeToolTip": "..\\Tests\\UnitTests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T05:48:55.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Building.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Elevator\\Elevator\\Elevator\\Core\\Models\\Building.cs",
+              "RelativeDocumentMoniker": "Elevator\\Core\\Models\\Building.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Elevator\\Elevator\\Elevator\\Core\\Models\\Building.cs",
+              "RelativeToolTip": "Elevator\\Core\\Models\\Building.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAgwBkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T05:45:41.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IElevator.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Elevator\\Elevator\\Elevator\\Core\\Interfaces\\IElevator.cs",
+              "RelativeDocumentMoniker": "Elevator\\Core\\Interfaces\\IElevator.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Elevator\\Elevator\\Elevator\\Core\\Interfaces\\IElevator.cs",
+              "RelativeToolTip": "Elevator\\Core\\Interfaces\\IElevator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T05:45:33.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ElevatorType.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Elevator\\Elevator\\Elevator\\Core\\Enums\\ElevatorType.cs",
+              "RelativeDocumentMoniker": "Elevator\\Core\\Enums\\ElevatorType.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Elevator\\Elevator\\Elevator\\Core\\Enums\\ElevatorType.cs",
+              "RelativeToolTip": "Elevator\\Core\\Enums\\ElevatorType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T05:45:04.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ElevatorController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Elevator\\Elevator\\Elevator\\Controllers\\ElevatorController.cs",
+              "RelativeDocumentMoniker": "Elevator\\Controllers\\ElevatorController.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Elevator\\Elevator\\Elevator\\Controllers\\ElevatorController.cs",
+              "RelativeToolTip": "Elevator\\Controllers\\ElevatorController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T05:44:50.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Elevator\\Elevator\\Elevator\\Program.cs",
+              "RelativeDocumentMoniker": "Elevator\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Elevator\\Elevator\\Elevator\\Program.cs",
+              "RelativeToolTip": "Elevator\\Program.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAApwHIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T05:44:08.264Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
